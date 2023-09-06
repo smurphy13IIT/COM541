@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<JSON>
+    <cities>
+        <city>
+            <name>Chico</name>
+            <state>CA</state>
+            <coordinates>
+                <lat>39.73883</lat>
+                <lng>-121.85</lng>
+            </coordinates>
+        </city>    
+        <city>
+            <name>Chicago</name>
+            <state>IL</state>
+            <coordinates>
+                <lat>41.85003</lat>
+                <lng>-87.65005</lng>
+            </coordinates>
+        </city>
+        <city>
+            <name>Chilton</name>
+            <state>WI</state>
+            <coordinates>
+                <lat>44.025</lat>
+                <lng>-88.15517</lng>
+            </coordinates>
+        </city>
+    </cities>
+</JSON>
